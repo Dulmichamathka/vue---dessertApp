@@ -120,23 +120,6 @@ export default {
       val: 20,
       color: "red",
     },
-    flags: [
-      {
-        avatar: "3.jpg",
-        title: "1X Best Chocolate",
-        subtitle: "$13",
-      },
-      {
-        avatar: "1.jpeg",
-        title: "United Kingdom",
-        subtitle: "12%",
-      },
-      {
-        avatar: "",
-        title: "Canada",
-        subtitle: "9%",
-      },
-    ],
   }),
 };
 </script>
