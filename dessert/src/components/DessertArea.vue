@@ -26,8 +26,9 @@
                       <div align="center" justify="center">
                         <v-img
                           :src="category.img"
-                          max-height="60"
-                          max-width="80"
+                          max-height="100"
+                          max-width="120"
+                          style="border-radius: 10px; object-fit: cover"
                           contain
                         ></v-img>
                       </div>
