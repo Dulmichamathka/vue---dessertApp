@@ -49,19 +49,19 @@ export default {
   data: () => ({
     categories: [
       {
-        img: "https://cdn.loveandlemons.com/wp-content/uploads/2021/06/summer-desserts.jpg",
+        img: "1.png",
       },
       {
-        img: "https://www.allrecipes.com/thmb/rOSWRQmSwBjWyAnnCVJcpd5xBnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3574694-hot-fudge-ice-cream-bar-dessert-Allrecipes-Magazine-4x3-1-8b0b0580bfb14ae9bb8a9b3acb421ad5.jpg",
+        img: "2.png",
       },
       {
-        img: "https://cdn.apartmenttherapy.info/image/upload/v1709316229/k/Edit/2024-03-cherry-delight/cherry-delight2.jpg",
+        img: "3.png",
       },
       {
-        img: "https://img.freepik.com/premium-photo/decadent-chocolate-lava-cake-with-molten-center-perfect-dessert-combines-rich-chocolate_817921-4530.jpg",
+        img: "4.png",
       },
       {
-        img: "https://dancearoundthekitchen.com/wp-content/uploads/2022/08/DSC_1822.jpg",
+        img: "5.png",
       },
     ],
   }),

@@ -17,7 +17,7 @@
         </v-toolbar-title>
       </v-toolbar>
       <FoodCom />
-      <Comment />
+      <CommentCom />
     </v-container>
   </v-app>
 </template>
@@ -29,6 +29,7 @@ import NavBar from "../components/NavBar";
 import DessertArea from "../components/DessertArea";
 import MenuArea from "../components/MenuArea";
 import FoodCom from "../components/FoodCom";
+import CommentCom from "../components/CommentCom";
 
 export default {
   name: "HomeView",
@@ -40,6 +41,7 @@ export default {
     DessertArea,
     MenuArea,
     FoodCom,
+    CommentCom,
   },
 };
 </script>
